@@ -1,0 +1,9 @@
+---
+layout: single
+title:  "TensorFlow 내용 정리"
+---
+# Dropout
+1.Overfitting
+너무 많이 학습시켜 다른 새로운 데이터가 왔을 때 분리시키면 적중률이 떨어진다.
+2.Underfitting
+너무 학습을 시키지 않아서 새로운 데이터를 분리시키면 적중률이 떨어진다.
